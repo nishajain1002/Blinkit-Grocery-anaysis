@@ -12,6 +12,10 @@ Analyze sales, revenue, and inventory patterns of BlinkIT grocery data using Exc
 - Monthly sales trend visualized through charts
 - Inventory categories contributing to low stock alerts
 
+- 
+![Uploading image.png…]()
+
+
 ---
 
 ✅ Created as part of Data Analyst portfolio by **Nisha Jain**.
